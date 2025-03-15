@@ -23,6 +23,10 @@ Current Weather: https://api.openweathermap.org/data/2.5/weather?q={city}&appid=
 Ensure your API key is valid and has the correct permissions.
 API calls have rate limits; check the OpenWeather documentation for details.
 
+# Dashboard.
+
+![Image](https://github.com/user-attachments/assets/4e729e66-75e8-4095-82db-199f5adc648f)
+
 # Contributions
 Contributions are welcome! Feel free to submit issues or pull requests.
 
