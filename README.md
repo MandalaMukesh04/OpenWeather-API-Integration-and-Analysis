@@ -57,5 +57,6 @@ To set up the project in Power BI:
 - [Power BI Documentation](https://docs.microsoft.com/en-us/power-bi/)
 - [OpenWeather API Documentation](https://openweathermap.org/api)
 
-This README provides an overview of the Power BI real-time project, guiding users on data sources, methodology, tools used, key insights, and setup instructions.
+![Image](https://github.com/user-attachments/assets/fd45b795-fa3d-444b-a79c-bdc79dc0c268)
+
 
